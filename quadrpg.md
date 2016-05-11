@@ -6,9 +6,21 @@ By Nathanael Phillip Cole, first released 8/11/2008
 
 Summer 2016 Edition: Now with 151% More Freeness
 
-"Quad RPG" means "Quick and Dirty Role-playing Game." This simple RPG is designed to be picked up and played with not even a moment's notice and only a modicum of necessary rules-checking. All you need is a mechanism for generating a set of random numbers (dice and cards are common), maybe a handful of pennies or just a notepad to mark some tallies, and this document (and hopefully if I've done my job well enough, you won't even need that after a good read-through). Pen and paper can also be quite useful.
+"Quad RPG" means "Quick and Dirty Role-playing Game." This simple RPG
+is designed to be picked up and played with not even a moment's notice
+and only a modicum of necessary rules-checking. All you need is a
+mechanism for generating a set of random numbers (dice and cards are
+common), maybe a handful of pennies or just a notepad to mark some
+tallies, and this document (and hopefully if I've done my job well
+enough, you won't even need that after a good read-through). Pen and
+paper can also be quite useful.
 
-To run a Quad game, you don't need pre-statted monsters or scenarios. You just need folks who want to play *right now*, and at least some amount of ability to think as you go. This very un-crunchy system works best for an unexpected seat-of-the-pants sandbox-like style of gaming. Just think of an initial situation, describe it, and then ask the players "What do you do?" and go from there. This game needs a **<span style="font-variant:small-caps;">Game Master</span>** (probably you) and at least one or more players. The role of GM has a lot of in-game power, so use it responsibly and don’t be a jerk to the players.
+To run a Quad game, you don't need pre-statted monsters or scenarios.
+You just need folks who want to play *right now*, and at least some
+amount of ability to think as you go. This very un-crunchy system works
+best for an unexpected seat-of-the-pants sandbox-like style of gaming.
+Just think of an initial situation, describe it, and then ask the players
+"What do you do?" and go from there. This game needs a **<span style="font-variant:small-caps;">Game Master</span>** (probably you) and at least one or more players. The role of GM has a lot of in-game power, so use it responsibly and don’t be a jerk to the players.
 
 This is hardly a revolutionary system, so why write it? I needed a good game to pick up and run with no books at all. Nothing out there did the trick for me. Thus, I created this game, and hopefully you'll find it equally as useful for your own insta-games. Are you waiting in an airport with some buds for a layover? Camping in line overnight for concert tickets or that new gaming console? Killing some time in-between scheduled games at a con? Drunk and awake with some buds at a party after most of the other guests have left? Personally, I keep a folded copy in my wallet, just for these unexpected moments. I find it’s great for playing a game where I just don’t want to think about the mechanics *at all*, and with players who usually hate the long process of character creation (yes, they do exist).
 
