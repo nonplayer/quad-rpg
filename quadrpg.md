@@ -40,7 +40,7 @@ Mechanically, each character is little more than a list of **<span style="font-v
 
 -   1 characteristic you really like about yourself (*I have a really expressionate face.*)
 
-    **Bad Traits:**
+**Bad Traits:**
 
 -   1 activity you're bad at doing (*I can't swim at all*)
 
@@ -50,7 +50,7 @@ Mechanically, each character is little more than a list of **<span style="font-v
 
 -   1 dirty secret (*I accidentally killed my brother when I was seven and my family covered it up*)
 
-    **Neutral Traits:**
+**Neutral Traits:**
 
 -   1 thing folks notice about you upon first meeting (*I have a face full of tribal piercings*)
 
@@ -156,7 +156,7 @@ That’s it! You have probably by now memorized this incredibly quick and simple
 
 Now, go play!
 
-*Thanks to Sam and Chris for being great, and also for having gender-neutral nicknames. *
+*Thanks to Sam and Chris for being great, and also for having gender-neutral nicknames.*
 
 Quad RPG is Copyright © 2008-2016 Nathanael Phillip Cole
 
